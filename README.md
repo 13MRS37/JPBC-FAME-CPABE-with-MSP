@@ -161,6 +161,12 @@ This project is intended for academic and research purposes.
 
 It should not be considered a production-ready cryptographic library or used to protect sensitive data without an independent security review.
 
+## Acknowledgements
+
+This project is based on the original [JPBC-FAME](https://github.com/chrizchow/JPBC-FAME) implementation by [chrizchow](https://github.com/chrizchow).
+
+The original implementation served as the starting point for further development, including code modifications, Boolean access policy parsing, and conversion of access policies into Monotone Span Programs (MSPs).
+
 ## Author
 
 Developed as part of a Master's thesis in Cryptography and Cybersecurity.
