@@ -1,0 +1,14 @@
+# Compiled Java files
+# Generated during compilation; not required in the repository.
+*.class
+/out/
+
+# IntelliJ IDEA configuration files
+# Local IDE settings; NOT required to compile or run the project.
+/.idea/
+*.iml
+
+# Local benchmark results
+# Experimental CSV files retained locally and excluded from GitHub.
+/AND_benchmark_results_java.csv
+/nested_policy_benchmark_java.csv
