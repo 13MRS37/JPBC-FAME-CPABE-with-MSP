@@ -1,4 +1,4 @@
-# FAME – CP-ABE Implementation
+# Java implementation of the FAME CP-ABE scheme with Boolean access policy parsing and MSP conversion.
 
 A Java implementation of **FAME (Fast Attribute-based Message Encryption)**, a Ciphertext-Policy Attribute-Based Encryption (CP-ABE) scheme, developed and extended as part of a Master's thesis in Cryptography and Cybersecurity.
 
